@@ -1,0 +1,19 @@
+{
+  "name": "visage-lib",
+  "version": "0.0.0",
+  "description": "Plug and play solution for visually testing your Vue components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
